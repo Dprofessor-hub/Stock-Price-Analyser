@@ -77,3 +77,7 @@ The analyser provides:
 ## Purpose
 
 This project was created to help users quickly analyze stock performance and understand market trends through simple visualizations.
+
+## Application Link
+
+https://trade-trakr.lovable.app
