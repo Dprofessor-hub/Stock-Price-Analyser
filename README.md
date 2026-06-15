@@ -4,6 +4,10 @@
 
 <img width="1901" height="996" alt="Application Preview" src="https://github.com/user-attachments/assets/eefdb5d6-a0ee-439f-8c6a-35c8057ba718" />
 
+## Application Output
+
+<img width="1893" height="997" alt="Application Output" src="https://github.com/user-attachments/assets/21120cbb-965f-440b-a7bc-65202c76151c" />
+
 
 ## Overview
 
