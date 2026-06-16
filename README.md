@@ -1,4 +1,4 @@
-# 📈 Stock Price Analyser
+# Stock Market Trend Analysis
 
 ## Application Preview
 
